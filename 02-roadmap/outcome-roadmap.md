@@ -20,7 +20,7 @@ _North star: foremen resolve RFIs through Meridian as easily as sending a text, 
 | Later (6 to 12 mo) | **Field gains become renewal proof** | Account Management, Customer Success, Finance | Renewal conversations at adopting accounts include RFI cycle-time improvements; retained gross profit tracked against the model |
 | Later (6 to 12 mo) | **Earn the right to expand beyond RFI** | Foundations product lead, leadership | Deferred functions and phase-two candidates reconsidered only after routing accuracy and adoption thresholds are sustained |
 
-_[screenshot or shareable link to your roadmap visual]_
+https://claude.ai/artifact/UgFurrpyZPqeXNcX8a8Weq
 
 ## 2. Trade-off memo
 
@@ -44,4 +44,4 @@ _What did you sequence first, what did you push out, and what did you cut entire
 
 ## Link to full artifact
 
-_[link to this deliverable in your repo]_
+https://github.com/BT-Product/product-leadership-final/blob/main/02-roadmap/plc-m2-lab.md
